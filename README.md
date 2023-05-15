@@ -4,5 +4,5 @@
 - [Arithmetic Formatter](projects/arithmetic-formatter.py)
 - [Time Calculator](projects/time-calculator.py)
 - [Budget App](projects/budget-app.py)
-- Polygon Area Calculator
+- [Polygon Area Calculator](projects/polygon-area-calculator.py)
 - Probability Calculator
