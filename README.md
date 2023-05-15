@@ -1,5 +1,5 @@
-<h2>Scientific Computing with Python 🐍</h2>
-<p>Solutions from the Scientific Computing course with Python at freeCodeCamp.</p>
+<h2>Scientific Computing with Python</h2>
+<p>Solutions freeCodeCamp Scientific Computing with Python.</p>
 
 - [Arithmetic Formatter](projects/arithmetic-formatter.py)
 - [Time Calculator](projects/time-calculator.py)
