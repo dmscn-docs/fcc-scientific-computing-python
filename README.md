@@ -5,4 +5,4 @@
 - [Time Calculator](projects/time-calculator.py)
 - [Budget App](projects/budget-app.py)
 - [Polygon Area Calculator](projects/polygon-area-calculator.py)
-- Probability Calculator
+- [Probability Calculator](projects/probability-calculator.py)
